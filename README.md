@@ -8,7 +8,7 @@ You will need to install the packages in the requirement file for this project. 
 pip install -r requirements.txt
 ```
 
-# Train UniOD on customed datasets
+# Train UniOD on customized datasets
 
 
 
